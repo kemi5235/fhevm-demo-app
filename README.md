@@ -26,7 +26,7 @@ Requirements
 
 Quick Start
  1. Clone this repository:
-git clone https://github.com/YOUR_USERNAME/intent-demo.git
+git clone https://github.com/kemi5235/intent-demo.git
 cd intent-demo
  2. Install dependencies:
 npm install
